@@ -1,0 +1,15 @@
+h4 {
+    font-style: bold;
+    color: orange;
+}
+
+li {
+    font-family: 'Helvética', sans-serif;
+    font-size: 12pt ;
+    font-style: bold;
+}
+
+li .nome{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-style: bold; 
+}

@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+    color:orange;
+    text-align: center;
+}
+
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+    font-style: bolder;
+    text-align: center;
+}
+
+
+img {
+    width: 1000px;
+
+}
